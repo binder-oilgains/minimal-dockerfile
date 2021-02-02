@@ -1,6 +1,6 @@
 # Minimal Dockerfiles for Binder
 
-* [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/binder-oilgains/minimal-dockerfile/master)
+* `binder-oilgains`: [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/binder-oilgains/minimal-dockerfile/master)
 
 [Binder](https://mybinder.org) needs only one thing for images to work:
 
